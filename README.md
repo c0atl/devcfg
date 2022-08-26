@@ -1,0 +1,2 @@
+# devcfg
+Tools and shortcuts
